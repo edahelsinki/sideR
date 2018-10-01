@@ -11,7 +11,7 @@ Reference to sideR:
 
 Kai Puolamäki. sideR - a tool for subjective and interactive visual
 data exploration in R. Downloaded from
-http://www.iki.fi/kaip/sider.html on 24 October 2017.
+https://github.com/edahelsinki/sideR on [insert date].
 
 -----
 
