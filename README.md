@@ -109,8 +109,8 @@ Lichman, M. (2013). UCI Machine Learning Repository
 [<http://archive.ics.uci.edu/ml>]. Irvine, CA: University of California,
 School of Information and Computer Science.
 
-`toy3.rds` 
-`toydata.rds` 
+`toy3.rds`  
+`toydata.rds`  
 Artificial data sets created by us and described in the paper.
 
 -----
