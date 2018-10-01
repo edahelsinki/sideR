@@ -117,8 +117,8 @@ Artificial data sets created by us and described in the paper.
 
 sideR
 
-Copyright 2017-2018 Kai Puolamäki <kai.puolamaki@iki.fi>  
-Copyright 2017 Finnish Institute of Occupational Health, Helsinki,
+Copyright (c) 2017-2018 Kai Puolamäki <kai.puolamaki@iki.fi>  
+Copyright (c) 2017 Finnish Institute of Occupational Health, Helsinki,
 Finland   
 
 Permission is hereby granted, free of charge, to any person obtaining
