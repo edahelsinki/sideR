@@ -50,7 +50,7 @@ shinyUI(fluidPage(
           sliderInput("tol1","log10 of lambda tolerance",min=-5,max=1,value=-2,step=0.1),
           sliderInput("tol2","log10 of sigma tolerance",min=-5,max=1,value=-2,step=0.1),
           sliderInput("timeout","timeout (s)",min=1,max=300,value=10,step=1),
-          HTML("<p>Kai Puolam&auml;ki &lt;kai.puolamaki@iki.fi&gt. Published under the MIT license. See the README.txt file and <a href=\"https://arxiv.org/abs/1710.08167\">arXiv:1710.08167</a> [stat.ML] for details.</p>")
+          HTML("<p>Kai Puolam&auml;ki &lt;kai.puolamaki@iki.fi&gt. Published under the MIT license. See the README.md file and <a href=\"https://arxiv.org/abs/1710.08167\">arXiv:1710.08167</a> [stat.ML] for details.</p>")
         ),
         mainPanel(
             plotOutput("plot",brush=brushOpts(id="sel1"),click="plot_click"),
