@@ -1,6 +1,6 @@
 # sideR
 
-This is an attachment to the following manuscript:
+sideR has been described in the following manuscript:
 
 Kai Puolamäki, Emilia Oikarinen, Bo Kang, Jefrey Lijffijt, Tijl De
 Bie. Interactive Visual Data Exploration with Subjective Feedback: An
@@ -12,6 +12,8 @@ Reference to sideR:
 Kai Puolamäki. sideR - a tool for subjective and interactive visual
 data exploration in R. Downloaded from
 <http://www.iki.fi/kaip/sider.html> on [insert date].
+
+This is the updated current version of the software attached to the above mentioned manuscript.
 
 -----
 
