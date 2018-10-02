@@ -34,3 +34,6 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+data_brainhack.rds
+data_brainhack2_small.rds
+data_brainhack_small.rds

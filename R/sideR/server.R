@@ -89,7 +89,13 @@ shinyServer(function(input,output,session) {
     
             currentplotpca <<- c(list(s="PCA"),dopca(Y))
             currentplotica <<- c(list(s="ICA"),dofastica(Y))
-            currentplot <<- currentplotsel <<- c(list(s="PCA"),dopca(data))
+            currentplotsel <<- c(list(s="PCA"),dopca(data))
+            if(input$plot=="pca")
+                currentplot <<- currentplotpca
+            else if(input$plot=="ica")
+                currentplot <<- currentplotica
+            else
+                currentplot <<- currentplotsel
     
             updateSelectInput(session,"selectpoints",
                               label="add to current selection:",
