@@ -1,11 +1,16 @@
 # sideR
 
-sideR has been described in the following manuscript:
+sideR has been described in the following manuscripts:
 
 Kai Puolamäki, Emilia Oikarinen, Bo Kang, Jefrey Lijffijt, Tijl De
 Bie. Interactive Visual Data Exploration with Subjective Feedback: An
-Information-Theoretic Approach. arXiv:1710.08167
-[stat.ML]. https://arxiv.org/abs/1710.08167
+Information-Theoretic Approach.
+IEEE 34th International Conference on Data Engineering (ICDE), 1208-1211, 2018. https://doi.org/10.1109/ICDE.2018.00112 Extended version available as arXiv:1710.08167 [stat.ML]. https://arxiv.org/abs/1710.08167
+
+
+
+Kai Puolamäki, Emilia Oikarinen, Bo Kang, Jefrey Lijffijt, Tijl De Bie. 
+https://doi.org/10.1109/ICDE.2018.00112
 
 Reference to sideR:
 
