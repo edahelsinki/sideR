@@ -50,7 +50,9 @@ Create the LaTeX table by executing in the same directory:
 `Rscript --vanilla report.R` 
 Produce convergence figure by executing in directory toyexample:  
 `Rscript --vanilla toyexample.R`
-
+Produce usecases of data exploration and the respective figures 
+by executing in directory usecases:
+`Rscript --vanilla usecases.R`
 -----
 
 How to get started by sideR:
