@@ -5,18 +5,16 @@ sideR has been described in the following manuscripts:
 Kai Puolamäki, Emilia Oikarinen, Bo Kang, Jefrey Lijffijt, Tijl De
 Bie. Interactive Visual Data Exploration with Subjective Feedback: An
 Information-Theoretic Approach.
-IEEE 34th International Conference on Data Engineering (ICDE), 1208-1211, 2018. https://doi.org/10.1109/ICDE.2018.00112 Extended version available as arXiv:1710.08167 [stat.ML]. https://arxiv.org/abs/1710.08167
+IEEE 34th International Conference on Data Engineering (ICDE), 1208-1211, 2018. https://doi.org/10.1109/ICDE.2018.00112 
 
+Extended version available as arXiv:1710.08167 [stat.ML]. https://arxiv.org/abs/1710.08167
 
-
-Kai Puolamäki, Emilia Oikarinen, Bo Kang, Jefrey Lijffijt, Tijl De Bie. 
-https://doi.org/10.1109/ICDE.2018.00112
 
 Reference to sideR:
 
 Kai Puolamäki. sideR - a tool for subjective and interactive visual
 data exploration in R. Downloaded from
-<http://www.iki.fi/kaip/sider.html> on [insert date].
+<https://github.com/edahelsinki/sideR> on [insert date].
 
 This is the current updated version of the software attached to the above mentioned manuscript.
 
@@ -53,6 +51,7 @@ Produce convergence figure by executing in directory toyexample:
 Produce usecases of data exploration and the respective figures 
 by executing in directory usecases:
 `Rscript --vanilla usecases.R`
+
 -----
 
 How to get started by sideR:
