@@ -7,7 +7,7 @@ Bie. Interactive Visual Data Exploration with Subjective Feedback: An
 Information-Theoretic Approach.
 IEEE 34th International Conference on Data Engineering (ICDE), 1208-1211, 2018. https://doi.org/10.1109/ICDE.2018.00112 
 
-Extended version available as arXiv:1710.08167 [stat.ML]. https://arxiv.org/abs/1710.08167
+Extended version has been submitted to journal. A preprint is available at arXiv:1710.08167 [stat.ML]. https://arxiv.org/abs/1710.08167
 
 
 Reference to sideR:
