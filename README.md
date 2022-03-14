@@ -7,7 +7,7 @@ Bie. Interactive Visual Data Exploration with Subjective Feedback: An
 Information-Theoretic Approach.
 IEEE 34th International Conference on Data Engineering (ICDE), 1208-1211, 2018. https://doi.org/10.1109/ICDE.2018.00112 
 
-*Extended journal paper:* Kai Puolamäki, Emilia Oikarinen, Bo Kang, Jefrey Lijffijt, Tijl De Bie. Interactive visual data exploration with subjective feedback: an information-theoretic approach. Data Mining and Knowledge Discovery, 2019. https://doi.org/10.1007/s10618-019-00655-x 
+*Extended journal paper:* Kai Puolamäki, Emilia Oikarinen, Bo Kang, Jefrey Lijffijt, Tijl De Bie. Interactive visual data exploration with subjective feedback: an information-theoretic approach. Data Min Knowl Disc 34, 21–49 (2020). https://doi.org/10.1007/s10618-019-00655-x 
 
 
 Reference to sideR:
